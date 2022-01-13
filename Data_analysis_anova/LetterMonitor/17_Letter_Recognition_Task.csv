@@ -1,0 +1,271 @@
+Start time: 8/22/2021 12:00:00 AM: 8/22/2021 4:10:17 PM
+LetterTask1
+p, p - () 1.416626 seconds
+l, l - () 0.8665619 seconds
+f, f - () 1.750061 seconds
+c, c - () 1.899963 seconds
+z, z - () 1.933273 seconds
+d, d - () 1.500015 seconds
+o, o - () 1.649948 seconds
+t, t - () 1.916656 seconds
+e, e - () 1.583282 seconds
+LetterTask2
+d, e - () 7.283234 seconds
+t, p - () 2.149963 seconds
+f, d - () 4.483215 seconds
+l, d - () 7.499908 seconds
+e, e - () 3.649963 seconds
+c, t - () 5.816559 seconds
+o, l - () 4.549927 seconds
+p, z - () 3.44989 seconds
+z, f - () 5.983307 seconds
+LetterTask10
+f, e - () 5.533264 seconds
+p, p - () 2.449951 seconds
+o, o - () 3.749878 seconds
+e, e - () 3.466614 seconds
+d, d - () 2.466675 seconds
+z, z - () 2.849884 seconds
+l, l - () 1.033356 seconds
+c, c - () 3.016632 seconds
+t, t - () 2.866577 seconds
+LetterTask12
+o, d - () 7.033234 seconds
+z, e - () 3.083191 seconds
+p, p - () 4.899994 seconds
+l, l - () 4.166565 seconds
+d, c - () 4.433289 seconds
+t, d - () 2.733307 seconds
+f, z - () 5.433197 seconds
+e, f - () 7.199921 seconds
+c, e - () 2.683228 seconds
+LetterTask20
+c, c - () 7.449829 seconds
+f, f - () 4.766571 seconds
+e, e - () 3.066681 seconds
+l, p - () 3.433258 seconds
+d, d - () 3.06662 seconds
+z, z - () 2.383301 seconds
+p, p - () 2.916626 seconds
+t, t - () 2.466614 seconds
+o, o - () 3.616638 seconds
+LetterTask8
+z, z - () 2.31662 seconds
+p, c - () 5.116577 seconds
+f, f - () 7.499878 seconds
+e, e - () 4.033234 seconds
+c, c - () 9.233185 seconds
+l, l - () 2.899933 seconds
+d, d - () 5.683258 seconds
+o, o - () 5.299896 seconds
+t, t - () 3.433289 seconds
+LetterTask9
+d, z - () 3.499939 seconds
+t, p - () 1.966614 seconds
+l, d - () 5.516602 seconds
+z, z - () 6.049866 seconds
+e, c - () 6.183228 seconds
+c, o - () 7.049866 seconds
+p, t - () 8.349854 seconds
+o, f - () 3.416626 seconds
+f, c - () 9.033203 seconds
+LetterTask11
+z, z - () 1.133301 seconds
+t, t - () 3.399963 seconds
+e, e - () 2.016663 seconds
+l, d - () 3.099854 seconds
+d, d - () 3.333374 seconds
+p, p - () 2.13324 seconds
+f, f - () 3.849976 seconds
+o, o - () 2.433228 seconds
+c, c - () 1.5 seconds
+LetterTask26
+l, l - () 1.416626 seconds
+z, z - () 2.150024 seconds
+o, o - () 4.033264 seconds
+f, f - () 4.533203 seconds
+c, c - () 1.5 seconds
+d, d - () 1.783264 seconds
+p, p - () 2.666626 seconds
+t, t - () 2.799988 seconds
+e, e - () 2.583313 seconds
+LetterTask24
+c, p - () 7.766479 seconds
+l, e - () 3.583313 seconds
+d, p - () 3.666565 seconds
+z, e - () 3.316589 seconds
+o, c - () 5.333252 seconds
+e, p - () 5.799927 seconds
+f, d - () 2.099976 seconds
+p, z - () 2.999939 seconds
+t, t - () 2.5 seconds
+LetterTask14
+z, z - () 1.483276 seconds
+c, c - () 1.100037 seconds
+t, t - () 1.699951 seconds
+l, l - () 0.9666138 seconds
+d, d - () 1.516663 seconds
+o, o - () 2.166626 seconds
+e, e - () 2.149963 seconds
+f, f - () 2.799927 seconds
+p, p - () 1.683289 seconds
+LetterTask18
+o, o - () 6.099915 seconds
+z, z - () 1.683289 seconds
+l, d - () 6.183289 seconds
+c, e - () 3.666565 seconds
+d, p - () 3.083191 seconds
+f, f - () 4.466614 seconds
+t, t - () 2.183289 seconds
+p, o - () 4.866577 seconds
+e, e - () 2.433289 seconds
+LetterTask3
+e, o - () 5.183289 seconds
+z, e - () 5.083252 seconds
+d, c - () 3.283264 seconds
+o, p - () 3.716553 seconds
+l, z - () 3.833313 seconds
+c, e - () 7.433228 seconds
+t, t - () 3.499939 seconds
+p, l - () 1.700012 seconds
+f, d - () 3.383301 seconds
+LetterTask22
+z, z - () 1.349976 seconds
+d, d - () 1.75 seconds
+e, f - () 1.866638 seconds
+f, f - () 4.899963 seconds
+l, l - () 0.8999023 seconds
+c, c - () 1.166687 seconds
+p, p - () 1.549927 seconds
+o, o - () 1.783325 seconds
+t, t - () 1.416687 seconds
+LetterTask23
+p, p - () 1.783325 seconds
+t, t - () 3.049927 seconds
+z, z - () 2.549927 seconds
+f, f - () 3.233215 seconds
+c, c - () 1.966492 seconds
+l, d - () 4.233398 seconds
+o, o - () 3.116577 seconds
+e, e - () 5.049927 seconds
+d, d - () 3.316589 seconds
+LetterTask15
+t, t - () 2.466675 seconds
+d, d - () 4.099915 seconds
+l, e - () 6.366577 seconds
+o, o - () 6.549866 seconds
+e, p - () 3.749878 seconds
+z, z - () 5.466553 seconds
+f, c - () 3.783325 seconds
+p, l - () 3.783264 seconds
+c, p - () 4.349915 seconds
+LetterTask6
+l, d - () 6.079346 seconds
+e, c - () 6.916565 seconds
+p, t - () 5.44989 seconds
+o, p - () 3.833252 seconds
+t, e - () 5.06665 seconds
+d, z - () 2.399902 seconds
+f, t - () 4.233215 seconds
+c, c - () 2.733337 seconds
+z, l - () 2.499939 seconds
+LetterTask7
+l, l - () 1.266663 seconds
+p, p - () 9.449829 seconds
+e, e - () 2.349976 seconds
+c, c - () 2.133301 seconds
+f, f - () 4.166565 seconds
+t, t - () 2.433289 seconds
+z, z - () 1.716675 seconds
+o, o - () 3.683228 seconds
+d, d - () 2.349976 seconds
+LetterTask19
+o, o - () 1.549988 seconds
+e, e - () 1.916626 seconds
+f, f - () 2.016663 seconds
+z, z - () 1.116577 seconds
+d, d - () 1.650024 seconds
+l, l - () 1.299988 seconds
+t, t - () 2.383301 seconds
+c, c - () 1.166626 seconds
+p, p - () 1.466675 seconds
+LetterTask16
+p, p - () 3.449951 seconds
+d, d - () 1.516663 seconds
+t, t - () 1.466614 seconds
+e, e - () 2.116638 seconds
+f, f - () 2.483276 seconds
+o, o - () 2.283325 seconds
+l, l - () 1.183228 seconds
+c, c - () 7.633301 seconds
+z, z - () 2.366577 seconds
+LetterTask5
+f, f - () 3.849976 seconds
+d, d - () 2.150024 seconds
+o, c - () 3.583252 seconds
+z, z - () 1.933228 seconds
+e, e - () 1.916626 seconds
+t, t - () 2.349976 seconds
+l, l - () 1.283325 seconds
+p, p - () 1.783325 seconds
+c, c - () 2.116577 seconds
+LetterTask25
+d, d - () 1.883301 seconds
+z, z - () 1.25 seconds
+p, p - () 2.033325 seconds
+t, t - () 1.266602 seconds
+e, e - () 1.349976 seconds
+o, o - () 1.283325 seconds
+l, l - () 0.7667236 seconds
+f, f - () 2.199951 seconds
+c, c - () 0.9666748 seconds
+LetterTask27
+e, c - () 5.149902 seconds
+o, p - () 3.766479 seconds
+p, z - () 2.18335 seconds
+c, l - () 2.333374 seconds
+d, e - () 2.516602 seconds
+f, d - () 4.81665 seconds
+l, c - () 2.149902 seconds
+t, t - () 5.216553 seconds
+z, z - () 1.699951 seconds
+LetterTask21
+z, d - () 3.349854 seconds
+l, c - () 4.93335 seconds
+o, e - () 5.016602 seconds
+f, o - () 1.699951 seconds
+p, t - () 1.866577 seconds
+t, p - () 1.983276 seconds
+e, f - () 2.416626 seconds
+c, d - () 2.083374 seconds
+d, l - () 1.933228 seconds
+LetterTask17
+p, p - () 1.56665 seconds
+f, f - () 2.166626 seconds
+l, l - () 1.066528 seconds
+o, o - () 2.516724 seconds
+c, c - () 1.049927 seconds
+z, z - () 1.099976 seconds
+e, e - () 1.56665 seconds
+t, t - () 1.799927 seconds
+d, d - () 1.549927 seconds
+LetterTask4
+o, o - () 2.283325 seconds
+t, t - () 1.633301 seconds
+c, c - () 1.583252 seconds
+f, f - () 2.75 seconds
+z, z - () 1.43335 seconds
+l, l - () 1.099976 seconds
+d, d - () 2.31665 seconds
+e, e - () 1.566528 seconds
+p, p - () 2.31665 seconds
+LetterTask13
+p, p - () 1.56665 seconds
+t, t - () 1.799927 seconds
+f, f - () 2 seconds
+z, z - () 1.06665 seconds
+o, o - () 1.68335 seconds
+c, c - () 0.916626 seconds
+e, e - () 1.350098 seconds
+l, l - () 0.8665771 seconds
+d, d - () 1.949951 seconds
