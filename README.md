@@ -1,5 +1,4 @@
 [![license](https://img.shields.io/badge/License-BSD%202--Clause-blue.svg)](https://github.com/bionicvisionlab/2022-kasowski-immersive/blob/master/LICENSE)
-[![Data](https://img.shields.io/badge/data-osf.io-lightgrey.svg)](https://osf.io/s2udz/)
 
 # Immersive Virtual Reality Simulations of Bionic Vision
 
